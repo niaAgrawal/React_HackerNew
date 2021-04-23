@@ -1,4 +1,4 @@
-# React_HackerNew
+# React_HackerNews
 
 Project
 This is a (soft) "Hacker News" clone.
