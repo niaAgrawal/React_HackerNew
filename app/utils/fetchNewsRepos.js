@@ -24,6 +24,7 @@ export function fetchUser (by) {
       if(!posts){
         throw new Error(` Issue in fetching the post by ${by}`)
       }
+      console.log('fetchUser nia',posts);
       return posts
     })
 }
